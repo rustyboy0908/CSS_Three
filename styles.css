@@ -1,0 +1,178 @@
+h1{
+  font-size: 180px;
+  color : #3f3f44;
+  margin: 0 auto;
+  padding-left: 4px;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  color: #3f3f44;
+  font-size: 5em;
+  font-weight: normal;
+  margin-top: 5px;
+
+}
+
+h3{
+
+  color: #3f3f44;
+  font-size: 4.0em;
+  font-weight: normal;
+
+
+}
+
+p{
+color:#3f3f44;
+font-size: 2.40rem;
+
+}
+
+body{
+  padding: 20px;
+  margin : 0;
+  background-color:  #00909e;
+  text-align: center;
+  font-family:'Odibee Sans', sans-serif;
+
+
+  /* border:solid 10px; */
+}
+
+.footer-link{
+ color: #3f3f44;
+
+}
+
+
+ .dotted_hr{
+ border-color : #EAF6F6;
+ border-style: none;
+ border-top-style: dotted;
+ border-width: 5px;
+ width : 5% ;}
+
+
+
+.top-container{
+
+position: relative;
+padding-top: 200px;
+background-color:  #40bad5;
+margin: auto;
+
+}
+
+.mc{
+
+padding-top: 8%;
+padding-bottom: 5%;
+
+
+
+}
+
+.bottom-cloud{
+
+  position:absolute;
+  left: 25%;
+  padding : 20px;
+
+}
+
+.Upper-cloud{
+
+  position: absolute;
+  right: 25%;
+  top: 50px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill_1{
+  float: left;
+  width: 25%;
+  padding-right: 30px;
+}
+
+.skill_2{
+  float: right;
+  width:25%;
+  padding-left: 30px;
+}
+
+
+.profile{
+
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.skills{
+
+  padding-top: 40px;
+  padding-right: inherit;
+  padding-bottom: 40px;
+  padding-left: inherit;
+
+}
+
+
+.bottom-container{
+
+  background-color: #66BFBF;
+
+
+}
+
+.footer-link{
+
+  background-color: #11999E;
+}
+
+
+.end{
+
+  background-color: #EAF6F6;
+  font-size: 1.2rem;
+}
+
+
+.btn {
+  font-size: 30px;
+}
+
+.btn:hover {
+  background-color: #ececec;
+}
+
+.intro{
+
+  width: 30%;
+  margin: 40px auto 40px auto;
+}
+
+.git{
+
+  margin: 100px;
+}
+
+
+.footer-link:hover{
+
+  background-color: #ececec;
+  text-decoration:overline;
+
+}
+
+.a{
+  text-decoration: none;
+}
